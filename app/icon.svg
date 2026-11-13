@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a8854a"/><stop offset=".45" stop-color="#f6e7c1"/><stop offset="1" stop-color="#b8955a"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#0c0b10"/>
+  <circle cx="32" cy="32" r="25" fill="none" stroke="url(#g)" stroke-width="1.6"/>
+  <text x="32" y="40.5" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="23" letter-spacing="1" fill="url(#g)">XV</text>
+</svg>
